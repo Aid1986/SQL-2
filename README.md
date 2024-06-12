@@ -91,6 +91,8 @@ LIMIT 1
 ```
 
 ![3](https://github.com/Aid1986/SQL-2/blob/main/3.png)
+
+
 Теперь предположим, что год важен
 ```
 SELECT
